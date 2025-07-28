@@ -15,7 +15,7 @@ col1, col2 = st.columns([1, 10])
 with col1:
     st.image("logo-black.webp", width=300)
 with col2:
-    st.title("📄 Processos Abertos - Holmesdoc")
+    st.title("📄 Processos Abertos - Holmes")
 
 # Token e URL
 load_dotenv()
