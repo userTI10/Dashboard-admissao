@@ -1,6 +1,5 @@
 import streamlit as st
 import requests
-import csv
 import io
 import xlsxwriter
 from collections import defaultdict
