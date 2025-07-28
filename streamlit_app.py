@@ -8,7 +8,7 @@ from dotenv import load_dotenv
 import os
 
 # Configuração da página
-st.set_page_config(page_title="📋 Processos Holmes", layout="wide")
+st.set_page_config(page_title="📋 Processos Holmes 1", layout="wide")
 
 # Cabeçalho com logo
 col1, col2 = st.columns([1, 10])
